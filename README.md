@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/ghostie nfts" target="blank"><img src="https://img.shields.io/twitter/follow/ghostie nfts?logo=twitter&style=for-the-badge" alt="ghostie nfts" /></a> </p>
 
-- 🔭 I’m currently working on [My Personal portfolio](github.com/YodaKiller0)
+- 🔭 I’m currently working on [My Personal portfolio](https://github.com/YodaKiller0/Terminal-Website-2.0)
 
 - 🌱 I’m currently learning **Three.js**
 
